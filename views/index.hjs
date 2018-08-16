@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+			<title>Robust Api</title>
+			<link rel="stylesheet" href="/stylesheets/style.css">
+			<link rel="stylesheet" href="/bootstrap/md/css/mdb.css">
+			<link rel="stylesheet" href="/bootstrap/dist/css/bootstrap.css">
+			<link rel="stylesheet" href="/bootstrap/md/css/bootstrap.min.css">
+			<link rel="stylesheet" href="/bootstrap/md/css/mdb.min.css">
+			<link rel="stylesheet" href="/stylesheets/style.css">
+</head>
+<body>
+
+<div id="root"></div>
+<script type="text/javascript" src="/build/bundle.js"></script>
+<script type="text/javascript" src="/bootstrap/md/js/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="/bootstrap/md/js/mdb.js"></script>
+<script type="text/javascript" src="/bootstrap/md/js/popper.min.js"></script>
+<script type="text/javascript" src="/bootstrap/md/js/mdb.min.js"></script>
+<script type="text/javascript" src="/bootstrap/md/js/bootstraps.js"></script>
+
+</body>
+</html>
